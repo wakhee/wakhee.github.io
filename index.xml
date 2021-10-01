@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wakhee the boss</title>
+    <link>https://wakhee.github.io/</link>
+    <description>Recent content on wakhee the boss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://wakhee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://wakhee.github.io/about/</link>
+      <pubDate>Fri, 01 Oct 2021 19:58:17 +0530</pubDate>
+      
+      <guid>https://wakhee.github.io/about/</guid>
+      <description>I love reading</description>
+    </item>
+    
+  </channel>
+</rss>
