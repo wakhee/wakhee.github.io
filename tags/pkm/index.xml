@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pkm on Wakhee&#39;s musings</title>
-    <link>https://example.com/tags/pkm/</link>
+    <link>https://wakhee.github.io/tags/pkm/</link>
     <description>Recent content in pkm on Wakhee&#39;s musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/pkm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wakhee.github.io/tags/pkm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why create a website</title>
-      <link>https://example.com/post/chapter-1/</link>
+      <link>https://wakhee.github.io/post/chapter-1/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/chapter-1/</guid>
+      <guid>https://wakhee.github.io/post/chapter-1/</guid>
       <description>I was tired of just consuming content and not creating anything that was my own, original and personal. Youtube was an option, but I felt that the barrier of entry was pretty high, with all the requirments like good microphone, lighting, etc. to create decent content. The bigger issue was that I felt the video format was not suitable to constantly update and ideas and was not the most accessible even.</description>
     </item>
     

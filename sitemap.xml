@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/tags/pkm/</loc>
+    <loc>https://wakhee.github.io/tags/pkm/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://wakhee.github.io/tags/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/tech/</loc>
+    <loc>https://wakhee.github.io/tags/tech/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://wakhee.github.io/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-1/</loc>
+    <loc>https://wakhee.github.io/post/chapter-1/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://wakhee.github.io/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://wakhee.github.io/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://wakhee.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://wakhee.github.io/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
